@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772393950408",
+    "project_id": "donaapp-5b003",
+    "storage_bucket": "donaapp-5b003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772393950408:android:b06d2a571955ca063f99fd",
+        "android_client_info": {
+          "package_name": "com.misiontic2022.dona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772393950408-2pkd0t302gm36e3ufdl12a5dhaou0vdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.misiontic2022.dona",
+            "certificate_hash": "62069edfef083d5a8e5154a0be583af950d0c500"
+          }
+        },
+        {
+          "client_id": "772393950408-dg282k57j9i9kfkbscuniesp506ntqrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASK-Yt5OcvpBj4C6fign1nGzG0yU1j3OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772393950408-dg282k57j9i9kfkbscuniesp506ntqrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

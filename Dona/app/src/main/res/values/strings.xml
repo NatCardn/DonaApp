@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dona</string>
+    <string name="conten_descrip">image</string>
+    <string name="title_login">INICIAR SESIÓN</string>
+    <string name="hint_email_id">Email ID</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="lbl_forgot_password">¿Olvidó la contraseña?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="dont_account">¿Aún sin cuenta?</string>
+    <string name="register">Regístrate</string>
+
+
+    <string name="crea_cuenta">CREA UNA CUENTA</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_Apellido">Apellidos</string>
+    <string name="hint_confirm_password">Confirma Contraseña</string>
+    <string name="i_agree_terms">Acepto <u>Términos y Condiciones</u></string>
+    <string name="btn_register">Resgistro</string>
+    <string name="already_account">Ya tiene una cuenta</string>
+    <string name="login">Login</string>
+
+</resources>
